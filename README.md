@@ -1,4 +1,4 @@
-# scrum-kanban — Étude de cas Agile Scrum sur AstroVision AI
+# scrum-kanban — Étude de cas Agile Scrum sur AstroVision AI 🔭
 
 ## Contexte du projet
 
@@ -8,17 +8,17 @@ autour d’un projet fictif nommé **AstroVision AI**.
 AstroVision AI est une suite d’outils d’intelligence artificielle dédiée à l’astrophotographie,
 regroupant **9 fonctionnalités principales** :
 
-1. Débruitage physique-inversé des images astronomiques
-2. Super-résolution astronomique guidée par la PSF
-3. Calibration intelligente (darks, flats, bias, défauts capteur)
-4. Segmentation et classification des objets célestes
-5. Correction de la turbulence atmosphérique (poses rapides / lucky imaging)
-6. Détection et correction des gradients et de la pollution lumineuse
-7. Reconstruction des couleurs physiques (Hα, OIII, SII, palettes SHO/HOO)
-8. Assistant IA de cadrage et de planification des sessions d’astrophotographie
-9. Fusion collaborative multi-télescopes (images provenant de plusieurs observateurs)
+**1.** Débruitage physique-inversé des images astronomiques
+**2.** Super-résolution astronomique guidée par la PSF
+**3.** Calibration intelligente (darks, flats, bias, défauts capteur)
+**4.** Segmentation et classification des objets célestes
+**5.** Correction de la turbulence atmosphérique (poses rapides / lucky imaging)
+**6.** Détection et correction des gradients et de la pollution lumineuse
+**7.** Reconstruction des couleurs physiques (Hα, OIII, SII, palettes SHO/HOO)
+**8.** Assistant IA de cadrage et de planification des sessions d’astrophotographie
+**9.** Fusion collaborative multi-télescopes (images provenant de plusieurs observateurs)
 
-> ⚠️ Il s’agit d’un **projet pédagogique** : aucun code de production n’est fourni,
+> ⚠️ Il s’agit d’un **projet pédagogique** : aucun code de production n’est actuellement fourni,
 le focus est mis sur la **méthodologie Scrum/Kanban** et la gestion de projet.
 
 ---
