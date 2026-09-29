@@ -54,23 +54,23 @@ scrum-kanban/
     └── astrovision_case_study.md
 ```
 
-**docs/**
-*   **Scrum_guide.pdf** : guide complet sur la méthode Agile Scrum, appliquée au projet AstroVision AI (rôles, événements, artefacts, étude de cas).
+`docs/`
+*   `Scrum_guide.pdf` : guide complet sur la méthode Agile Scrum, appliquée au projet AstroVision AI (rôles, événements, artefacts, étude de cas).
 
-**slides/**
-*   **presentation_scrum_astrovision.pdf** : diaporama de présentation.
+`slides/`
+*   `presentation_scrum_astrovision.pdf` : diaporama de présentation.
 
-**artefacts/**
-*   **kanban_board.md** : représentation du tableau kanban.
+`artefacts/`
+*   `kanban_board.md` : représentation du tableau kanban.
 
-*   **user_stories.md** : liste des user stories pour les 9 fonctionnalités IA.
+*   `user_stories.md` : liste des user stories pour les 9 fonctionnalités IA.
 
-*   **burndown_chart.md** : burndown chart factice pour un sprint type.
+*   `burndown_chart.md` : burndown chart factice pour un sprint type.
 
-*   **gant_diagram.md** : diagramme de Gantt simplifié du projet. 
+*   `gant_diagram.md` : diagramme de Gantt simplifié du projet. 
 
-**case-study/** 
-*   **astrovision_case_study.md** : description détaillée de l'étude de cas : 
+`case-study/` 
+*   `astrovision_case_study.md` : description détaillée de l'étude de cas : 
 COntexte, fonctionnalités, mise en scène des spints, dialogues simulés, priorisation des user stories, feedbacks des parties prenantes. 
 
 ## Méthodologie utilisée
@@ -86,15 +86,17 @@ Le projet s'appuie sur :
 
 ## Comment lire ce projet
 
-**1. Commencer par le PDF** ==docs/scrum_guide.pdf== pour comprendre la structure gloable de Scrum appliquée à AstroVision AI.
+**1. Commencer par le PDF** `docs/scrum_guide.pdf` pour comprendre la structure gloable de Scrum appliquée à AstroVision AI.
 
-**2. Explorer les artefacts** dans ==artefacts/== pour observer la matérialisation des soncepts (Kanban, user stories, burndown, Gantt)
+**2. Explorer les artefacts** dans `artefacts/` pour observer la matérialisation des soncepts (Kanban, user stories, burndown, Gantt)
 
-**3. Consulter l'étude de cas** dans ==case-study/astrovision_case_study.md== pour suivre la mise en scène des sprints et des décisions de l'équipe. 
+**3. Consulter l'étude de cas** dans `case-study/astrovision_case_study.md` pour suivre la mise en scène des sprints et des décisions de l'équipe. 
 
-**4. Utiliser les slides** dans ==slides/== comme support de présentation. 
+**4. Utiliser les slides** dans `slides/` comme support de présentation. 
 
 ## Auteur
-*   *Pierre Mazard**
+*   **Pierre Mazard**
 
-Projet réalisé dans le cadre d'une étude de cas sur la gesiton d eproget Agile Scrum/Kanban.
+*étudiant en Master 1 Expert Intelligence Artificielle / Data*
+
+Projet réalisé dans le cadre d'une étude de cas sur la gesiton de proget Agile Scrum/Kanban.
