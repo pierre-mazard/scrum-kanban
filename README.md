@@ -27,7 +27,7 @@ le focus est mis sur la **méthodologie Scrum/Kanban** et la gestion de projet.
 
 Ce repository a pour objectifs :
 
-- de **illustrer l’application de Scrum** sur un projet IA complexe,
+- d' **illustrer l’application de Scrum** sur un projet IA complexe,
 - de **mettre en scène les événements Scrum** (Sprint Planning, Daily, Review, Rétrospective),
 - de **présenter les artefacts** (Product Backlog, Kanban, User Stories, Burndown Chart, Gantt),
 - de fournir une **documentation structurée** pour un rendu académique.
