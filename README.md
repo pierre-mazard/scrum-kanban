@@ -52,3 +52,49 @@ scrum-kanban/
 │   └── gantt_diagram.md
 └── case-study/
     └── astrovision_case_study.md
+```
+
+**docs/**
+*   **Scrum_guide.pdf** : guide complet sur la méthode Agile Scrum, appliquée au projet AstroVision AI (rôles, événements, artefacts, étude de cas).
+
+**slides/**
+*   **presentation_scrum_astrovision.pdf** : diaporama de présentation.
+
+**artefacts/**
+*   **kanban_board.md** : représentation du tableau kanban.
+
+*   **user_stories.md** : liste des user stories pour les 9 fonctionnalités IA.
+
+*   **burndown_chart.md** : burndown chart factice pour un sprint type.
+
+*   **gant_diagram.md** : diagramme de Gantt simplifié du projet. 
+
+**case-study/** 
+*   **astrovision_case_study.md** : description détaillée de l'étude de cas : 
+COntexte, fonctionnalités, mise en scène des spints, dialogues simulés, priorisation des user stories, feedbacks des parties prenantes. 
+
+## Méthodologie utilisée
+
+Le projet s'appuie sur : 
+*   **Scrum** pour la gestion des sprints : 
+    *   Rôles : Product Owner, Scrum Mater, Dev Team (Data Scientists, ML Engineers, Dev, QA, experts métier)
+    *   Événements : Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospetive
+    *   Artefacts : Product Backlog, Sprint Backlog, Increment
+*   **Kanban** pour la visualisation du flux de travail : 
+    *   Colonnes : Backlog, À faire, En cours, En test, Terminé
+    *   Cartes : modules IA et user stories associées
+
+## Comment lire ce projet
+
+**1. Commencer par le PDF** ==docs/scrum_guide.pdf== pour comprendre la structure gloable de Scrum appliquée à AstroVision AI.
+
+**2. Explorer les artefacts** dans ==artefacts/== pour observer la matérialisation des soncepts (Kanban, user stories, burndown, Gantt)
+
+**3. Consulter l'étude de cas** dans ==case-study/astrovision_case_study.md== pour suivre la mise en scène des sprints et des décisions de l'équipe. 
+
+**4. Utiliser les slides** dans ==slides/== comme support de présentation. 
+
+## Auteur
+*   *Pierre Mazard**
+
+Projet réalisé dans le cadre d'une étude de cas sur la gesiton d eproget Agile Scrum/Kanban.
