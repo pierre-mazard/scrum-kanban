@@ -1,5 +1,3 @@
-# 💡 scrum-kanban 💡
-
 # 🔎 Étude de cas Agile Scrum sur AstroVision AI 🔭📷
 
 ## 💫 Contexte du projet
