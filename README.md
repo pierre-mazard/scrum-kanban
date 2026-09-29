@@ -1,29 +1,28 @@
-# scrum-kanban — Étude de cas Agile Scrum sur AstroVision AI 🔭
+# 💡 scrum-kanban 💡 — 🔎 Étude de cas Agile Scrum sur AstroVision AI 🔭📷
 
-## Contexte du projet
+## 💫 Contexte du projet
 
-Ce repository présente une **étude de cas complète** de gestion de projet Agile Scrum et Kanban
-autour d’un projet fictif nommé **AstroVision AI**.
+Ce repository présente une **étude de cas complète** de gestion de projet Agile Scrum et Kanban autour d’un projet fictif nommé **AstroVision AI**.
 
-AstroVision AI est une suite d’outils d’intelligence artificielle dédiée à l’astrophotographie,
+**AstroVision AI** est une **suite d’outils d’intelligence artificielle dédiée à l’astrophotographie**,
 regroupant **9 fonctionnalités principales** :
 
-**1.** Débruitage physique-inversé des images astronomiques
-**2.** Super-résolution astronomique guidée par la PSF
-**3.** Calibration intelligente (darks, flats, bias, défauts capteur)
-**4.** Segmentation et classification des objets célestes
-**5.** Correction de la turbulence atmosphérique (poses rapides / lucky imaging)
-**6.** Détection et correction des gradients et de la pollution lumineuse
-**7.** Reconstruction des couleurs physiques (Hα, OIII, SII, palettes SHO/HOO)
-**8.** Assistant IA de cadrage et de planification des sessions d’astrophotographie
-**9.** Fusion collaborative multi-télescopes (images provenant de plusieurs observateurs)
+**1.** 🧹 Débruitage physique-inversé des images astronomiques
+**2.** 🔝 Super-résolution astronomique guidée par la PSF
+**3.** ⚙️ Calibration intelligente (darks, flats, bias, défauts capteur)
+**4.** 🌌 Segmentation et classification des objets célestes
+**5.** 〰️ Correction de la turbulence atmosphérique (poses rapides / lucky imaging)
+**6.** 🔆 Détection et correction des gradients et de la pollution lumineuse
+**7.** 🌈 Reconstruction des couleurs physiques (Hα, OIII, SII, palettes SHO/HOO)
+**8.** 🤖 Assistant IA de cadrage et de planification des sessions d’astrophotographie
+**9.** 🔭➕🔭 Fusion collaborative multi-télescopes (images provenant de plusieurs observateurs)
 
 > ⚠️ Il s’agit d’un **projet pédagogique** : aucun code de production n’est actuellement fourni,
 le focus est mis sur la **méthodologie Scrum/Kanban** et la gestion de projet.
 
 ---
 
-## Objectifs du repository
+## 🎯 Objectifs du repository
 
 Ce repository a pour objectifs :
 
@@ -34,7 +33,7 @@ Ce repository a pour objectifs :
 
 ---
 
-## Structure du repository
+## 🗂️ Structure du repository
 
 La structure cible du repository est la suivante :
 
@@ -54,13 +53,13 @@ scrum-kanban/
     └── astrovision_case_study.md
 ```
 
-`docs/`
+`docs/` 📖
 *   `Scrum_guide.pdf` : guide complet sur la méthode Agile Scrum, appliquée au projet AstroVision AI (rôles, événements, artefacts, étude de cas).
 
-`slides/`
+`slides/` 👨🏼‍🏫
 *   `presentation_scrum_astrovision.pdf` : diaporama de présentation.
 
-`artefacts/`
+`artefacts/` ↪️
 *   `kanban_board.md` : représentation du tableau kanban.
 
 *   `user_stories.md` : liste des user stories pour les 9 fonctionnalités IA.
@@ -69,11 +68,11 @@ scrum-kanban/
 
 *   `gant_diagram.md` : diagramme de Gantt simplifié du projet. 
 
-`case-study/` 
+`case-study/` 🧠💭
 *   `astrovision_case_study.md` : description détaillée de l'étude de cas : 
-COntexte, fonctionnalités, mise en scène des spints, dialogues simulés, priorisation des user stories, feedbacks des parties prenantes. 
+Contexte, fonctionnalités, mise en scène des spints, dialogues simulés, priorisation des user stories, feedbacks des parties prenantes. 
 
-## Méthodologie utilisée
+## ⤵️ Méthodologie utilisée
 
 Le projet s'appuie sur : 
 *   **Scrum** pour la gestion des sprints : 
@@ -84,19 +83,19 @@ Le projet s'appuie sur :
     *   Colonnes : Backlog, À faire, En cours, En test, Terminé
     *   Cartes : modules IA et user stories associées
 
-## Comment lire ce projet
+## ⁉️ Comment lire ce projet
 
-**1. Commencer par le PDF** `docs/scrum_guide.pdf` pour comprendre la structure gloable de Scrum appliquée à AstroVision AI.
+**1️⃣. Commencer par le PDF** `docs/scrum_guide.pdf` pour comprendre la structure gloable de Scrum appliquée à AstroVision AI.
 
-**2. Explorer les artefacts** dans `artefacts/` pour observer la matérialisation des soncepts (Kanban, user stories, burndown, Gantt)
+**2️⃣. Explorer les artefacts** dans `artefacts/` pour observer la matérialisation des soncepts (Kanban, user stories, burndown, Gantt)
 
-**3. Consulter l'étude de cas** dans `case-study/astrovision_case_study.md` pour suivre la mise en scène des sprints et des décisions de l'équipe. 
+**3️⃣. Consulter l'étude de cas** dans `case-study/astrovision_case_study.md` pour suivre la mise en scène des sprints et des décisions de l'équipe. 
 
-**4. Utiliser les slides** dans `slides/` comme support de présentation. 
+**4️⃣. Utiliser les slides** dans `slides/` comme support de présentation. 
 
-## Auteur
+## ✍🏻 Auteur
 *   **Pierre Mazard**
 
-*étudiant en Master 1 Expert Intelligence Artificielle / Data*
+👨🏼‍🎓 *étudiant en Master 1 Expert Intelligence Artificielle / Data*
 
 Projet réalisé dans le cadre d'une étude de cas sur la gesiton de proget Agile Scrum/Kanban.
