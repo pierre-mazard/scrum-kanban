@@ -20,6 +20,7 @@ regroupant **9 fonctionnalités principales** :
 **6.** 🔆 Détection et correction des gradients et de la pollution lumineuse
 
 **7.** 🌈 Reconstruction des couleurs physiques (Hα, OIII, SII, palettes SHO/HOO)
+
 **8.** 🤖 Assistant IA de cadrage et de planification des sessions d’astrophotographie
 
 **9.** 🔭➕🔭 Fusion collaborative multi-télescopes (images provenant de plusieurs observateurs)
