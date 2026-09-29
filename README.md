@@ -5,7 +5,7 @@
 Ce repository présente une **étude de cas complète** de gestion de projet Agile Scrum et Kanban autour d’un projet fictif nommé **AstroVision AI**.
 
 **AstroVision AI** est une **suite d’outils d’intelligence artificielle dédiée à l’astrophotographie**,
-regroupant **9 fonctionnalités principales** :
+regroupant **9 fonctionnalités principales** (*passez la souris sur chacunes des fonctionnalités pour en apprendre un peu plus*) :
 
 
 <b title=" Cette fonctionnalité sert à retirer le “bruit” présent sur les photos du ciel, c’est‑à‑dire les petits points parasites ou grains qui apparaissent à cause du capteur ou de la faible luminosité. L’IA utilise des modèles physiques pour reconstruire l’image comme si elle avait été prise dans des conditions idéales.">
