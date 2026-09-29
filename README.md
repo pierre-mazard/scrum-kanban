@@ -117,7 +117,7 @@ scrum-kanban/
 
 `case-study/` 🧠💭
 *   `astrovision_case_study.md` : description détaillée de l'étude de cas : 
-Contexte, fonctionnalités, mise en scène des spints, dialogues simulés, priorisation des user stories, feedbacks des parties prenantes. 
+Contexte, fonctionnalités, mise en scène des sprints, dialogues simulés, priorisation des user stories, feedbacks des parties prenantes. 
 
 ## ⤵️ Méthodologie utilisée
 
