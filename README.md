@@ -32,32 +32,32 @@ regroupant **9 fonctionnalités principales** (*passez la souris sur chacunes de
 <br><br>
 
 
-<b title="L’atmosphère déforme la lumière des étoiles, ce qui rend les images floues ou instables. Cette fonctionnalité analyse des milliers de petites poses rapides pour reconstruire une image stable et nette, comme si l’atmosphère était parfaitement calme.">
+<b title="L’atmosphère déforme la lumière, ce qui rend les images floues ou instables. Cette fonctionnalité analyse des milliers de petites poses rapides pour reconstruire une image stable et nette, comme si l’atmosphère était parfaitement calme.">
 5. 〰️ Correction de la turbulence atmosphérique (poses rapides / lucky imaging)
 </b>
 <br><br>
 
 
-<b title="Les villes produisent une lumière diffuse qui crée des zones plus claires sur les photos du ciel. L’IA détecte ces gradients et les supprime pour révéler les véritables couleurs et structures des objets astronomiques.">
+<b title="Les villes et l'activité humaine produisent une lumière diffuse qui crée des zones plus claires sur les photos du ciel. L’IA détecte ces gradients et les supprime pour révéler les véritables couleurs et structures des objets astronomiques.">
 6. 🔆 Détection et correction des gradients et de la pollution lumineuse
 </b>
 <br><br>
 
 
-<b title="Les nébuleuses émettent des couleurs spécifiques selon les gaz présents. Cette fonctionnalité reconstruit les couleurs réelles ou artistiques (comme les palettes SHO/HOO) à partir des filtres utilisés, pour obtenir une image fidèle ou esthétiquement cohérente.">
-7. 🌈 Reconstruction des couleurs physiques (Hα, OIII, SII, palettes SHO/HOO)
+<b title="Les objet émettent des couleurs spécifiques selon leur composition chimique. Cette fonctionnalité reconstruit les couleurs à partir des filtres utilisés, pour obtenir une image fidèle ou esthétiquement cohérente.">
+7. 🌈 Reconstruction des couleurs physiques (Hα, OIII, SII, palettes SHO/HOO...)
 </b>
 <br><br>
 
 
-<b title="L’IA aide l’utilisateur à choisir quoi photographier, quand le faire, comment orienter le télescope, et quelles conditions météo ou astronomiques sont optimales. C’est un guide intelligent pour préparer une session d’observation.">
+<b title="L’IA aide l’utilisateur à choisir quoi photographier, quand le faire, comment orienter son matétiel, et quelles conditions météo ou astronomiques sont optimales. C’est un guide intelligent pour préparer une session d’observation ou d'acquisition.">
 8. 🤖 Assistant IA de cadrage et de planification des sessions d’astrophotographie
 </b>
 <br><br>
 
 
-<b title="Plusieurs personnes peuvent photographier le même objet avec des télescopes différents. L’IA combine toutes ces images pour créer une version beaucoup plus détaillée, comme si elles provenaient d’un seul instrument très puissant.">
-9. 🔭➕🔭 Fusion collaborative multi-télescopes (images provenant de plusieurs observateurs)
+<b title="Plusieurs personnes peuvent photographier le même objet avec du matériels différents. L’IA combine toutes ces images pour créer une version beaucoup plus détaillée, comme si elles provenaient d’un seul instrument très puissant.">
+9. 🔭➕🔭 Fusion collaborative multi-observateurs (images provenant de plusieurs observateurs)
 </b>
 <br><br>
 
