@@ -8,13 +8,20 @@ Ce repository présente une **étude de cas complète** de gestion de projet Agi
 regroupant **9 fonctionnalités principales** :
 
 **1.** 🧹 Débruitage physique-inversé des images astronomiques
+
 **2.** 🔝 Super-résolution astronomique guidée par la PSF
+
 **3.** ⚙️ Calibration intelligente (darks, flats, bias, défauts capteur)
+
 **4.** 🌌 Segmentation et classification des objets célestes
+
 **5.** 〰️ Correction de la turbulence atmosphérique (poses rapides / lucky imaging)
+
 **6.** 🔆 Détection et correction des gradients et de la pollution lumineuse
+
 **7.** 🌈 Reconstruction des couleurs physiques (Hα, OIII, SII, palettes SHO/HOO)
 **8.** 🤖 Assistant IA de cadrage et de planification des sessions d’astrophotographie
+
 **9.** 🔭➕🔭 Fusion collaborative multi-télescopes (images provenant de plusieurs observateurs)
 
 > ⚠️ Il s’agit d’un **projet pédagogique** : aucun code de production n’est actuellement fourni,
