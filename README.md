@@ -9,7 +9,7 @@ regroupant **9 fonctionnalités principales** :
 
 
 <b title=" Cette fonctionnalité sert à retirer le “bruit” présent sur les photos du ciel, c’est‑à‑dire les petits points parasites ou grains qui apparaissent à cause du capteur ou de la faible luminosité. L’IA utilise des modèles physiques pour reconstruire l’image comme si elle avait été prise dans des conditions idéales.">
-**1.** 🧹 **Débruitage physique-inversé des images astronomiques**
+1. 🧹 Débruitage physique-inversé des images astronomiques
 </b>
 
 
